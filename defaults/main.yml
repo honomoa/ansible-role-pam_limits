@@ -1,0 +1,4 @@
+---
+
+pam_limits: []
+  # - { domain: '*', type: 'soft', item: 'nofile', value: 1048576 }

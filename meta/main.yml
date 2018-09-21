@@ -1,0 +1,19 @@
+---
+
+dependencies: []
+
+galaxy_info:
+  role_name: pam_limits
+  author: honomoa
+  description: Modify Linux PAM limits.
+  company: "Moa"
+  license: "license (CC BY-SA 3.0)"
+  min_ansible_version: 2.4
+  platforms:
+  - name: Ubuntu
+    versions:
+    - xenial
+  galaxy_tags:
+    - system
+    - PAM
+    - limits
