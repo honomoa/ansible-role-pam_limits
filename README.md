@@ -17,7 +17,7 @@ pam_limits: []
       - { domain: '*', type: 'soft', item: 'nofile', value: 1048576 }
       - { domain: '*', type: 'hard', item: 'nofile', value: 1048576 }
   roles:
-    - { role: moa.pam_limits }
+    - { role: honomoa.pam_limits }
 ```
 
 # License
